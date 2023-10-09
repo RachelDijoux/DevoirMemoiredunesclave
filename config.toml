@@ -10,8 +10,8 @@ weight = 2
 [[menu.main]]
 identifier = "index"
 name = "Contenus"
-url = "/"
-weight = 1
+url = "https://racheldijoux.github.io/DevoirMemoiredunesclave/"
+weight = 3
 [[menu.main]]
 identifier = "print"
 name = "Impression"
