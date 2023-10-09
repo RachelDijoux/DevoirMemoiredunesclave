@@ -5,17 +5,17 @@ date = [":filename", ":default"]
 [[menu.main]]
 identifier = "about"
 name = "À propos"
-url = "https://racheldijoux.github.io/DevoirMemoiredunesclave/about/"
+url = "/about/"
 weight = 2
 [[menu.main]]
 identifier = "index"
 name = "Contenus"
 url = "https://racheldijoux.github.io/DevoirMemoiredunesclave/"
-weight = 3
+weight = 2
 [[menu.main]]
 identifier = "print"
 name = "Impression"
-url = "https://racheldijoux.github.io/DevoirMemoiredunesclave/print"
+url = "/print"
 weight = 3
 [outputs]
 home = ["HTML"]
