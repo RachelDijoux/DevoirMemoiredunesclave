@@ -5,7 +5,7 @@ date = [":filename", ":default"]
 [[menu.main]]
 identifier = "about"
 name = "À propos"
-url = "/about/"
+url = "https://racheldijoux.github.io/DevoirMemoiredunesclave/about/"
 weight = 2
 [[menu.main]]
 identifier = "index"
@@ -15,7 +15,7 @@ weight = 3
 [[menu.main]]
 identifier = "print"
 name = "Impression"
-url = "/print"
+url = "https://racheldijoux.github.io/DevoirMemoiredunesclave/print"
 weight = 3
 [outputs]
 home = ["HTML"]
